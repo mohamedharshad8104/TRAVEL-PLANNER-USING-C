@@ -1,5 +1,5 @@
 # TRAVEL-PLANNER-USING-C
-The Travel Planner is designed for travelers, tourists, and trip organizers. It caters to individuals and groups planning trips or vacations. Mainly works using DATA SRRUCTURES (linked list and array)
+The Travel Planner is designed for travelers, tourists, and trip organizers. It caters to individuals and groups planning trips or vacations. Mainly works using DATA STRUCTURES (linked list and array)
 //travel planner
 #include <stdio.h>
 #include <stdlib.h>
